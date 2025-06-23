@@ -5,6 +5,8 @@ This repository contains my coursework, projects, and models from the
 It demonstrates applied skills in statistics, data modeling, econometrics, 
 and machine learning for real-world business use cases.
 
+Brief overview of . . . 
+--
 **Modules Covered**
 
 | Module Code | Module Title                     | Description |
@@ -17,6 +19,7 @@ and machine learning for real-world business use cases.
 ---
 
 **Skills Demonstrated**
+
 - Regression, Classification, Clustering
 - Experimental Design & Sampling Theory
 - PCA, Factor Analysis, Market Segmentation
@@ -27,7 +30,7 @@ and machine learning for real-world business use cases.
 ---
 
 **Purpose**
-This repo acts as:
+
 - A learning log from my postgraduate coursework
 - A portfolio to showcase my analytical & modeling skills
 - A bridge to advanced roles in data science and business decision-making
