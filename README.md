@@ -1,3 +1,8 @@
+DISCLAIMER
+--
+This project was created for educational purposes under the UOL Business Analytics module.
+Please do not submit or copy this content directly for academic work.
+
 UOL Business Analytics
 --
 This repository contains my coursework, projects, and models from the 
